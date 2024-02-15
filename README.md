@@ -1,4 +1,9 @@
-# Markdown-testing
+# heading 1
+## heading 2
+### heading 3
+#### heading 4
+##### heading 5
+###### heading 6
 
 *italic* <br>
 **bold** <br>
@@ -6,7 +11,9 @@
 
 >paragraph1-this is just a first paragarpah to do testing.README.md is the go-to file for most projects on GitHub. >The file contains Markdown-formatted text that explains the project basics and points you in the right direction when
 
--------
+-----------
+3 or more dashes OR * for horizontL LINES
+***********
 
 
 >>README.md is the go-to file for most projects on GitHub. The file contains Markdown-formatted text that explains the project basics and points you in the right direction whe
@@ -37,5 +44,7 @@ return sum
 Some math $f(x)=x^2 <br>
 Lets do a search
 [Google](https://www.google.com)
+
+![IMAGE](/IMAGE.HTML)
 Or go to another markdown
 **[page](second.md)** local to the repo.
